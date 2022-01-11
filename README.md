@@ -1,6 +1,6 @@
 # automation
 
-# don't use it, seriously, I'm as sloppy as it gets programming the simplest script
+**don't use it, seriously, I'm as sloppy as it gets programming the simplest script**
 
 Infrastructure
 - Netbox:   source of truth
