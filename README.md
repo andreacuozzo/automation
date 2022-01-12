@@ -19,15 +19,15 @@ Functions
 - functions\functions_syspass.ps1
 
 Flow
-- use Jenkins as powershell scripts gui
-- load functions directly from gitea
+- Jenkins as powershell scripts gui
+- load custom functions directly from gitea
 - get implementation data from Netbox
 - get credentials from Syspass
 - do wathca wanna do on targets (vpshere, veeam, anything manageable)
-- update db backend of grafana dashboard
+- script statistics on the db used to populate grafana dashboards
 
 In the next life
- - ready made ovas/scripts to build the whole infrastructure (Netbox, Syspass, etc.)
+ - ready made ovas/scripts to build the whole infrastructure (Netbox, Syspass, Gitea, etc)
 
 
 
